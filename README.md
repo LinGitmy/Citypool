@@ -2,11 +2,12 @@
 
 This is the Citypool cardano staking pool website.
 
+Fixed fee: 0%
+Fee commission: 3%
+Up time: 99.99999%
 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LinGitmy/citypool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
