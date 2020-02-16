@@ -3,8 +3,11 @@
 This is the Citypool cardano staking pool website.
 
 Fixed fee: 0%
+
 Fee commission: 3%
+
 Up time: 99.99999%
+
 
 
 
